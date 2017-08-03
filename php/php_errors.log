@@ -1,0 +1,153 @@
+[31-Jul-2017 14:17:09] PHP Notice:  Undefined index: HTTP_RAW_POST_DATA in /var/www/html/wxgzh/php/phpsdk.php on line 39
+[31-Jul-2017 14:27:10] PHP Notice:  Undefined index: HTTP_RAW_POST_DATA in /var/www/html/wxgzh/php/phpsdk.php on line 39
+[31-Jul-2017 15:22:55] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:22:58] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:23:06] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:23:09] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:24:03] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:24:13] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:27:46] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:27:49] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:28:37] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:30:16] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:30:47] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:33:51] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:33:56] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:35:34] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:38:20] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:38:26] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:39:05] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:39:16] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:42:08] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:42:13] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:42:15] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 165
+[31-Jul-2017 15:44:32] PHP Notice:  Undefined index: HTTP_RAW_POST_DATA in /var/www/html/wxgzh/php/phpsdk.php on line 39
+[31-Jul-2017 15:45:51] PHP Warning:  sprintf(): Too few arguments in /var/www/html/wxgzh/php/phpsdk.php on line 329
+[31-Jul-2017 15:54:24] PHP Notice:  Undefined index: HTTP_RAW_POST_DATA in /var/www/html/wxgzh/php/phpsdk.php on line 39
+[31-Jul-2017 16:42:21] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 164
+[31-Jul-2017 16:58:07] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:07] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:07] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:07] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:13] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:13] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:13] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:13] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:20] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:20] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:20] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:20] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:25] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:25] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:25] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:25] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:32] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:32] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:32] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:58:32] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:43] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:43] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:43] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:43] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:49] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:49] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:49] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:49] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:54] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:54] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:54] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 16:59:54] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:09] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:09] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:09] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:09] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:15] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:15] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:15] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:15] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:15] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:15] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:15] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:15] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:15] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:15] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:18] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:18] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:18] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:18] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:20] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:20] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:20] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:20] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:26] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:26] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:26] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:26] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:32] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:32] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:32] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:32] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:38] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:38] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:38] PHP Notice:  Undefined variable: log_filename in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:00:38] PHP Warning:  file_put_contents(): Filename cannot be empty in /var/www/html/wxgzh/php/phpsdk.php on line 483
+[31-Jul-2017 17:41:29] PHP Warning:  Missing argument 2 for wechatCallbackapiTest::transmitText(), called in /var/www/html/wxgzh/php/phpsdk.php on line 220 and defined in /var/www/html/wxgzh/php/phpsdk.php on line 326
+[31-Jul-2017 17:41:40] PHP Warning:  Missing argument 2 for wechatCallbackapiTest::transmitText(), called in /var/www/html/wxgzh/php/phpsdk.php on line 220 and defined in /var/www/html/wxgzh/php/phpsdk.php on line 326
+[31-Jul-2017 17:42:11] PHP Warning:  Missing argument 2 for wechatCallbackapiTest::transmitText(), called in /var/www/html/wxgzh/php/phpsdk.php on line 220 and defined in /var/www/html/wxgzh/php/phpsdk.php on line 326
+[31-Jul-2017 18:02:24] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 166
+[01-Aug-2017 09:06:03] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 167
+[01-Aug-2017 09:06:08] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 167
+[01-Aug-2017 09:06:09] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 167
+[01-Aug-2017 09:06:15] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 167
+[01-Aug-2017 09:06:21] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 167
+[01-Aug-2017 09:06:27] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 167
+[01-Aug-2017 09:06:33] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 167
+[01-Aug-2017 09:06:39] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 167
+[02-Aug-2017 09:17:55] PHP Warning:  fopen(../tmp/20170802091755.jpg): failed to open stream: No such file or directory in /var/www/html/wxgzh/php/downfile.php on line 19
+[02-Aug-2017 09:17:55] PHP Warning:  curl_setopt(): supplied argument is not a valid File-Handle resource in /var/www/html/wxgzh/php/downfile.php on line 20
+[02-Aug-2017 09:18:01] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/wxgzh/php/downfile.php on line 24
+[02-Aug-2017 09:20:25] PHP Warning:  fopen(../tmp/20170802092025.jpg): failed to open stream: No such file or directory in /var/www/html/wxgzh/php/downfile.php on line 19
+[02-Aug-2017 09:20:25] PHP Warning:  curl_setopt(): supplied argument is not a valid File-Handle resource in /var/www/html/wxgzh/php/downfile.php on line 20
+[02-Aug-2017 09:20:30] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/wxgzh/php/downfile.php on line 24
+[02-Aug-2017 09:20:30] PHP Warning:  fopen(../tmp/20170802092030.jpg): failed to open stream: No such file or directory in /var/www/html/wxgzh/php/downfile.php on line 19
+[02-Aug-2017 09:20:30] PHP Warning:  curl_setopt(): supplied argument is not a valid File-Handle resource in /var/www/html/wxgzh/php/downfile.php on line 20
+[02-Aug-2017 09:20:39] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/wxgzh/php/downfile.php on line 24
+[02-Aug-2017 09:20:39] PHP Warning:  fopen(../tmp/20170802092039.jpg): failed to open stream: No such file or directory in /var/www/html/wxgzh/php/downfile.php on line 19
+[02-Aug-2017 09:20:39] PHP Warning:  curl_setopt(): supplied argument is not a valid File-Handle resource in /var/www/html/wxgzh/php/downfile.php on line 20
+[02-Aug-2017 09:20:44] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/wxgzh/php/downfile.php on line 24
+[02-Aug-2017 14:42:05] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:05] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:05] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:05] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:10] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:10] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:10] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:10] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:15] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:15] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:15] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:42:15] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:36] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:36] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:36] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:36] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:40] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:40] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:40] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:40] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:47] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:47] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:47] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:43:47] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 219
+[02-Aug-2017 14:58:43] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 220
+[02-Aug-2017 14:58:43] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 220
+[02-Aug-2017 14:58:43] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 220
+[02-Aug-2017 14:58:43] PHP Notice:  Undefined index: today in /var/www/html/wxgzh/php/phpsdk.php on line 220
+[02-Aug-2017 15:06:40] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 161
+[02-Aug-2017 15:10:23] PHP Notice:  Undefined index: Title in /var/www/html/wxgzh/php/phpsdk.php on line 312
+[02-Aug-2017 15:10:23] PHP Notice:  Undefined index: Description in /var/www/html/wxgzh/php/phpsdk.php on line 312
+[02-Aug-2017 15:10:23] PHP Notice:  Undefined index: MusicUrl in /var/www/html/wxgzh/php/phpsdk.php on line 312
+[02-Aug-2017 15:10:23] PHP Notice:  Undefined index: HQMusicUrl in /var/www/html/wxgzh/php/phpsdk.php on line 312
+[02-Aug-2017 15:11:05] PHP Notice:  Undefined variable: result in /var/www/html/wxgzh/php/phpsdk.php on line 160
+[02-Aug-2017 15:12:41] PHP Notice:  Undefined index: HTTP_RAW_POST_DATA in /var/www/html/wxgzh/php/phpsdk.php on line 38
+[02-Aug-2017 15:54:11] PHP Notice:  Undefined index: HTTP_RAW_POST_DATA in /var/www/html/wxgzh/php/phpsdk.php on line 37

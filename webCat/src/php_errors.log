@@ -1,0 +1,100 @@
+[31-Jul-2017 14:21:59] PHP Warning:  file_get_contents(access_token.php): failed to open stream: No such file or directory in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 34
+[31-Jul-2017 14:21:59] PHP Notice:  Trying to get property of non-object in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 16
+[01-Aug-2017 10:06:31] PHP Warning:  require_once(./weiXinData.php): failed to open stream: No such file or directory in /var/www/html/wxgzh/webCat/lib/userManager.php on line 3
+[01-Aug-2017 10:06:31] PHP Fatal error:  require_once(): Failed opening required './weiXinData.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/wxgzh/webCat/lib/userManager.php on line 3
+[01-Aug-2017 10:08:27] PHP Warning:  Missing argument 1 for weiXinData::__construct(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 5 and defined in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 8
+[01-Aug-2017 10:08:27] PHP Warning:  Missing argument 2 for weiXinData::__construct(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 5 and defined in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 8
+[01-Aug-2017 10:08:27] PHP Notice:  Undefined variable: appId in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 9
+[01-Aug-2017 10:08:27] PHP Notice:  Undefined variable: appSecret in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 10
+[01-Aug-2017 10:08:27] PHP Notice:  Undefined property: stdClass::$access_token in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 21
+[01-Aug-2017 10:10:56] PHP Warning:  Missing argument 1 for weiXinData::__construct(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 5 and defined in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 8
+[01-Aug-2017 10:10:56] PHP Warning:  Missing argument 2 for weiXinData::__construct(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 5 and defined in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 8
+[01-Aug-2017 10:10:56] PHP Notice:  Undefined variable: appId in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 9
+[01-Aug-2017 10:10:56] PHP Notice:  Undefined variable: appSecret in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 10
+[01-Aug-2017 10:10:57] PHP Notice:  Undefined property: stdClass::$access_token in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 21
+[01-Aug-2017 10:12:45] PHP Warning:  Missing argument 1 for userManager::__construct(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 5 and defined in /var/www/html/wxgzh/webCat/lib/userManager.php on line 7
+[01-Aug-2017 10:12:45] PHP Warning:  Missing argument 2 for userManager::__construct(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 5 and defined in /var/www/html/wxgzh/webCat/lib/userManager.php on line 7
+[01-Aug-2017 10:12:45] PHP Notice:  Undefined variable: appId in /var/www/html/wxgzh/webCat/lib/userManager.php on line 8
+[01-Aug-2017 10:12:45] PHP Notice:  Undefined variable: appSecret in /var/www/html/wxgzh/webCat/lib/userManager.php on line 8
+[01-Aug-2017 10:12:45] PHP Notice:  Undefined property: stdClass::$access_token in /var/www/html/wxgzh/webCat/lib/weiXinData.php on line 21
+[01-Aug-2017 10:28:03] PHP Notice:  Undefined variable: data in /var/www/html/wxgzh/webCat/src/usermanager.php on line 11
+[01-Aug-2017 10:31:46] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /var/www/html/wxgzh/webCat/src/usermanager.php on line 12
+[01-Aug-2017 11:00:08] PHP Warning:  Missing argument 2 for userManager::getUserTagLists(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 15 and defined in /var/www/html/wxgzh/webCat/lib/userManager.php on line 62
+[01-Aug-2017 11:00:08] PHP Notice:  Undefined variable: next_openid in /var/www/html/wxgzh/webCat/lib/userManager.php on line 63
+[01-Aug-2017 11:00:09] PHP Warning:  Missing argument 2 for userManager::getUserTagLists(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 15 and defined in /var/www/html/wxgzh/webCat/lib/userManager.php on line 62
+[01-Aug-2017 11:00:09] PHP Notice:  Undefined variable: next_openid in /var/www/html/wxgzh/webCat/lib/userManager.php on line 63
+[01-Aug-2017 11:01:44] PHP Warning:  Missing argument 2 for userManager::getUserTagLists(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 15 and defined in /var/www/html/wxgzh/webCat/lib/userManager.php on line 62
+[01-Aug-2017 11:01:58] PHP Warning:  Missing argument 2 for userManager::getUserTagLists(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 15 and defined in /var/www/html/wxgzh/webCat/lib/userManager.php on line 62
+[01-Aug-2017 11:02:47] PHP Warning:  Missing argument 2 for userManager::getUserTagLists(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 15 and defined in /var/www/html/wxgzh/webCat/lib/userManager.php on line 62
+[01-Aug-2017 11:02:47] PHP Notice:  Undefined variable: next_openid in /var/www/html/wxgzh/webCat/lib/userManager.php on line 64
+[01-Aug-2017 11:02:48] PHP Warning:  Missing argument 2 for userManager::getUserTagLists(), called in /var/www/html/wxgzh/webCat/src/usermanager.php on line 15 and defined in /var/www/html/wxgzh/webCat/lib/userManager.php on line 62
+[01-Aug-2017 11:02:48] PHP Notice:  Undefined variable: next_openid in /var/www/html/wxgzh/webCat/lib/userManager.php on line 64
+[01-Aug-2017 14:35:41] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:35:41] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:37:34] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:37:34] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:37:35] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:37:35] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:39:26] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:39:26] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:39:27] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:39:27] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:39:28] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:39:28] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:39:28] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:39:28] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:39:28] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:39:28] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:26] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:26] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:27] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:27] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:28] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:28] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:28] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:28] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:28] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:28] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:28] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:28] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:44] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:44] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:46] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:41:46] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:25] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:25] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:26] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:26] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:26] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:26] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:26] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:26] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:26] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:26] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:27] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:27] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:27] PHP Notice:  Undefined variable: qrcCode in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 14:42:27] PHP Fatal error:  Call to a member function createShortUrl() on a non-object in /var/www/html/wxgzh/webCat/src/qrcode.php on line 9
+[01-Aug-2017 15:23:08] PHP Notice:  Undefined property: QauthData::$appId in /var/www/html/wxgzh/webCat/lib/QauthData.class.php on line 107
+[01-Aug-2017 15:24:22] PHP Notice:  Undefined property: QauthData::$appId in /var/www/html/wxgzh/webCat/lib/QauthData.class.php on line 107
+[01-Aug-2017 15:30:45] PHP Notice:  Undefined property: QauthData::$appId in /var/www/html/wxgzh/webCat/lib/QauthData.class.php on line 107
+[01-Aug-2017 15:33:53] PHP Notice:  Undefined property: QauthData::$appId in /var/www/html/wxgzh/webCat/lib/QauthData.class.php on line 107
+[01-Aug-2017 15:49:32] PHP Notice:  Undefined index: openid in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:49:32] PHP Notice:  Undefined property: QauthData::$getAccessToken in /var/www/html/wxgzh/webCat/lib/QauthData.class.php on line 140
+[01-Aug-2017 15:49:43] PHP Notice:  Undefined property: QauthData::$getAccessToken in /var/www/html/wxgzh/webCat/lib/QauthData.class.php on line 140
+[01-Aug-2017 15:50:39] PHP Notice:  Undefined index: openid in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:51:33] PHP Notice:  Undefined index: openid in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:51:33] PHP Notice:  Undefined index: access_token in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:51:35] PHP Notice:  Undefined index: openid in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:51:35] PHP Notice:  Undefined index: access_token in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:51:36] PHP Notice:  Undefined index: openid in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:51:36] PHP Notice:  Undefined index: access_token in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:51:36] PHP Notice:  Undefined index: openid in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:51:36] PHP Notice:  Undefined index: access_token in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:54:15] PHP Fatal error:  Call to undefined method QauthData::httpGet() in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:54:16] PHP Fatal error:  Call to undefined method QauthData::httpGet() in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:54:23] PHP Fatal error:  Call to undefined method QauthData::httpGet() in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:54:54] PHP Notice:  Undefined index: openid in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:54:54] PHP Notice:  Undefined index: access_token in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:54:56] PHP Notice:  Undefined index: openid in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
+[01-Aug-2017 15:54:56] PHP Notice:  Undefined index: access_token in /var/www/html/wxgzh/webCat/src/authdata.php on line 6
