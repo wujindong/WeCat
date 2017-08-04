@@ -1,3 +1,58 @@
+#### v1.1.2 (2017-04-18)
+
+- 【增强】 cell增加向左滑动出现按钮的场景 #559
+- 【增强】 cell的高度改为45px
+- 【增强】 actionsheet增加title及其样式优化
+- 【增强】 readme的英文版
+- 【优化】 form-preview的语义化问题 #602
+- 【优化】 loading的svg放到同一个文件，以压缩代码
+- 【修复】 input没有 / 结束 #598
+- 【修复】 picker在字号变化时导致的错位现象及其样式优化
+
+
+#### v1.1.1 (2017-01-17)
+
+- 【修复】 fix icon-safe的错乱问题
+- 【增强】 增加按钮loading状态
+- 【增强】 更新普通警告图标颜色
+
+
+
+#### v1.1.0 (2016-11-21)
+
+- 【增强】 新增兼容IE Edge版本的switch
+- 【增强】 增加组件 badge徽章
+- 【增强】 增加组件 slider滑块
+- 【增强】 增加组件 picker多列选择器
+- 【优化】 把radio和checkbox下的weui-cell的:active挪到weui-check__label
+- 【优化】 src/navbar.less 更名为 src/weui-navbar.less
+- 【优化】 src/tabbar.less 更名为 src/weui-tabbar.less
+- 【优化】 loading的base64
+- 【优化】 去掉废弃和冗余的样式
+- 【修复】 preview下，两个button并排时，高度有问题 (#462)
+- 【修复】 button作为.weui-vcode-btn时的样式问题 (#519)
+- 【修复】 sourcemap 为乱码的问题
+- 【修复】 select的箭头没有居中的问题
+- 【修复】 tabbar的间距样式
+
+
+
+#### v1.0.2 (2016-09-27)
+
+- 【修复】 fix 不见了的weui-icon_clear的icon: weui-icon_close -> weui-icon_clear
+- 【修复】 preview在没有value的时候会变形: 增加weui-form-preview__item来控制
+- 【修复】 补上九宫格Grid的DEMO
+- 【修复】 九宫格文字换行问题 #483
+- 【优化】 icon的实现
+- 【优化】 example代码
+
+
+#### v1.0.1 (2016-09-27)
+
+- 【修复】 preview中，button与a标签的样式不一致
+- 【修复】 把遗漏的weui-media 更名为 weui-media-box
+
+
 #### v1.0.0 (2016-09-23)
 
 - 【增强】 采用BEM命名规范

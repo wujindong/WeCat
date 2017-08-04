@@ -53,7 +53,7 @@ $access_token = $jssdk->getAccessToken();
         <a href="#" class="weui-btn weui-btn_primary" id="qrcode">调起微信扫一扫接口</a>
     </body>
     <script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
-    <script src="./js/jquery-2.1.4.js"></script>
+    <script src="./node_modules/jquery/dist/jquery.min.js"></script>
     <script>
         /*
          * 注意：
