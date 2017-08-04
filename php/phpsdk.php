@@ -99,7 +99,7 @@ class wechatCallbackapiTest {
             case "CLICK":
                 switch ($object->EventKey) {
                     case "音乐":
-                        $content= array("Title" => "你还要我怎样", "Description" => "这是一首歌", "MusicUrl" => "http://www.eshenghuo365.com/wxgzh/webCat/src/folder/问天.mp3", "HQMusicUrl" => "http://www.eshenghuo365.com/wxgzh/webCat/src/folder/问天.mp3");
+                        $content= array("Title" => "问天", "Description" => "这是一首歌", "MusicUrl" => "http://www.eshenghuo365.com/wxgzh/webCat/src/folder/问天.mp3", "HQMusicUrl" => "http://www.eshenghuo365.com/wxgzh/webCat/src/folder/问天.mp3");
                         break;
                     default:
                         $content = $object->EventKey;
