@@ -154,4 +154,27 @@ class UserManager extends WeiXinData {
         return json_decode($result, TRUE);
     }
 
+
+    /**
+     * 拉黑用户
+     * @param $opened_list openid 列表数组
+     * @return mixed
+     */
+    public function addUserBackList($opened_list){
+        $url="https://api.weixin.qq.com/cgi-bin/tags/members/batchblacklist?access_token=".$this->getAccessToken();
+        $result = $this->https_request($url, json_encode($opened_list));
+        return json_decode($result, TRUE);
+    }
+
+    /**
+     * 取消拉黑
+     * @param $opened_list openid 列表数组
+     * @return mixed
+     */
+    public function cancleUserBackList($opened_list){
+        $url="https://api.weixin.qq.com/cgi-bin/tags/members/batchunblacklist?access_token=".$this->getAccessToken();
+        $result = $this->https_request($url, json_encode($opened_list));
+        return json_decode($result, TRUE);
+    }
+
 }
